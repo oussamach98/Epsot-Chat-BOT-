@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26614583333333336" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/drawable-v24/receive_round_box.xml" value="0.26614583333333336" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/drawable/round_button.xml" value="0.26614583333333336" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/drawable/send_round_box.xml" value="0.26614583333333336" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/layout/activity_splashscreen.xml" value="0.264" />
+        <entry key="..\:/DevMobile/ChatBot/ChatBot/app/src/main/res/layout/message_item.xml" value="0.1793478260869565" />
+        <entry key="..\:/DevMobile/ChatBot/app/src/main/res/layout/activity_about.xml" value="0.2" />
+        <entry key="..\:/Users/GM/AndroidStudioProjects/ChatBot/app/src/main/res/drawable-v24/receive_round_box.xml" value="0.1125" />
+        <entry key="..\:/Users/GM/AndroidStudioProjects/ChatBot/app/src/main/res/drawable/round_button.xml" value="0.1125" />
+        <entry key="..\:/Users/GM/AndroidStudioProjects/ChatBot/app/src/main/res/drawable/send_round_box.xml" value="0.1125" />
+        <entry key="..\:/Users/GM/AndroidStudioProjects/ChatBot/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/GM/AndroidStudioProjects/ChatBot/app/src/main/res/layout/message_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
